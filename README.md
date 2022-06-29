@@ -13,14 +13,14 @@ Using the WebRTC API I've created a simple peer-to-peer video call application s
 - Open the videocon folder
 - Go to "Terminal" located at the VScode menu then select "New Terminal"
 
-# Follow this codes to set up the localhost server and run the js program
+#### Follow this codes to set up the localhost server and run the js program
 - Install dependencies - npm install  
 - Start - npm start
 
-# if server is already active
+#### If Server is Already Active
 - goto browser type "localhost:3000"
 
-# to try peer to peer
+#### To Test Peer-to-Peer
 - just copy "localhost:3000" and paste to another browser tab
 
 
