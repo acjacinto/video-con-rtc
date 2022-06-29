@@ -29,7 +29,7 @@ Using the WebRTC API I've created a simple peer-to-peer video call application s
 
 ## Tech
 
-Random Visual Basic 6.0 Activities uses a number of softwares/free softwares to work properly:
+Simple Peer-to-peer Video Chat Application uses a number of softwares/free softwares to work properly:
 
 - [Visual Studio Code](https://code.visualstudio.com/) -  A lightweight but powerful source code editor which runs on your desktop.
 - [JavaScript](https://www.javascript.com/) -  ! scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything.
