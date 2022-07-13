@@ -32,7 +32,7 @@ Using the WebRTC API I've created a simple peer-to-peer video call application s
 Simple Peer-to-peer Video Chat Application uses a number of softwares/free softwares to work properly:
 
 - [Visual Studio Code](https://code.visualstudio.com/) -  A lightweight but powerful source code editor which runs on your desktop.
-- [JavaScript](https://www.javascript.com/) -  ! scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything.
+- [JavaScript](https://www.javascript.com/) -  A scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything.
 - [WebRTC](https://webrtc.org/) -  A free and open-source project providing web browsers and mobile applications with real-time communication via application programming interfaces.
 
 
