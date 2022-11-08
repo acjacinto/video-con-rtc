@@ -1,4 +1,4 @@
-# Simple Peer-to-peer Video Chat Applications
+# Simple Peer-to-peer Video Call Application
 ## _A Simple Real Time Video Chat App made with JavaScript for Beginners_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/acjacinto/computerized-voting-system)
